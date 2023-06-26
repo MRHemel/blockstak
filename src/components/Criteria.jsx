@@ -3,7 +3,7 @@ import fast from '../assets/criteria/fast.svg'
 import grwoth from '../assets/criteria/growth.svg'
 const Criteria = () => {
     return (
-        <div className="my-32 bg-[#F7F9FB] grid lg:grid-cols-3 sm:grid-cols-1 sm:mx-10 lg:mx-0">
+        <div className="my-32 bg-[#F7F9FB] grid lg:grid-cols-3 sm:grid-cols-1 sm:mx-10 lg:mx-0 ">
             <div className=''>
                 <h1 className="text-3xl font-bold uppercase text-black">the amazing nft art <br /> of the world here</h1>
             </div>
