@@ -6,6 +6,7 @@ import Criteria from './components/Criteria'
 import Features from './components/Features'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
+import SignUp from './components/SignUp'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <Criteria></Criteria>
       <Collection></Collection>
       <Features></Features>
+      <SignUp></SignUp>
       <Footer></Footer>
     </div>
   )
