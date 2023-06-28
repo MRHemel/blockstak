@@ -13,12 +13,12 @@ import verify from '../assets/collection/verify.svg'
 
 const Collection = () => {
     return (
-        <div className="grid grid-cols-3 gap-10 mb-10">
+        <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 lg:gap-10 sm:gap-10 md:gap-10  lg:mb-10 md:mb-10 sm:mb-10 ">
             <div>
                 <img src={bigImg} alt="" />
                 <div className='mt-4 flex justify-between'>
                     <div className='flex'>
-                        <img src={user} alt="" className='mr-4' />
+                        <img src={user} alt="" className='mr-4 ' />
                         <div className='text-left'>
                             <h3 className='text-lg font-bold'>The Futr Abstr</h3>
                             <p>10 in the stock</p>

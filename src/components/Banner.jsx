@@ -15,14 +15,13 @@ const Banner = () => {
     return (
         <div className="   mt-14">
             <div className="hero-content flex-col lg:flex-row-reverse">
-                <div className="w-2/5">
+                <div className="w-3/5 lg:w-2/5 ">
                     <Swiper
                         effect={"cards"}
                         grabCursor={true}
                         modules={[EffectCards]}
                         className="mySwiper"
                     >
-
                         <SwiperSlide> <img src={banner2} alt="" />
                             <div className='flex justify-between w-3/5 text-white p-3 bg-[rgba(255, 255, 255, 0.20)] backdrop-blur-xl absolute top-80 left-10 '>
                                 <div>
@@ -40,7 +39,6 @@ const Banner = () => {
                                     <div className='flex'>
                                         <img src={user} alt="" />
                                         <p className='ml-4'>Arkhan17</p>
-
                                     </div>
                                 </div>
                             </div>
@@ -89,10 +87,6 @@ const Banner = () => {
                                 </div>
                             </div>
                         </SwiperSlide>
-                        {/* <SwiperSlide> <img src={banner2} alt="" /> </SwiperSlide>
-                        <SwiperSlide> <img src={banner3} alt="" /> </SwiperSlide> */}
-
-
                     </Swiper>
 
                 </div>
