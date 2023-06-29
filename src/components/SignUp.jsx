@@ -8,19 +8,26 @@ const SignUp = () => {
     return (
         <div className="hero min-h-screen bg-base-200">
             <div className="hero-content flex-col lg:flex-row w-full">
-                <div className="w-1/2 flex ">
-                    <div className='p-4 relative'>
-                        <img src={photo1} alt="" />
-                        <img src={user1} alt="" className='absolute lg:right-0 lg:top-56 md:right-0 md:top-28 sm:right-0 sm:top-20 sm:w-16' />
-                        <div className='flex justify-end  mt-8 relative'>
-                            <img src={photo2} alt="" />
-                            <img src={user2} alt="" className='absolute lg:-right-6 lg:top-40 md:top-28 md:-right-4 
-                            sm:top-20 sm:w-16' />
+
+                <div className="w-1/2 flex p-2 gap-8">
+                    <div className='flex flex-col gap-8'>
+                        <div className="relative">
+                            <img src={photo1} alt="Main Picture" className="rounded-lg" />
+                            <img src={user1} alt="Small Picture" className="absolute -bottom-3 -right-3 w-10 h-10 rounded-full" />
+                        </div>
+                        <div className='flex justify-end'>
+                            <div className="relative">
+                                <img src={photo2} alt="Main Picture" className="rounded-lg" />
+                                <img src={user2} alt="Small Picture" className="absolute -bottom-3 -right-3 w-10 h-10 rounded-full" />
+                            </div>
                         </div>
                     </div>
-                    <div className='flex items-center p-10 relative'>
-                        <img src={photo3} alt="" />
-                        <img src={user2} alt="" className='absolute lg:right-6 lg:top-80 md:right-0 md:top-56 sm:top-40 sm:right-4 sm:w-16' />
+
+                    <div className='flex items-center'>
+                        <div className="relative">
+                            <img src={photo3} alt="Main Picture" className="rounded-lg" />
+                            <img src={user2} alt="Small Picture" className="absolute -bottom-3 -right-3 w-10 h-10 rounded-full" />
+                        </div>
                     </div>
 
                 </div>
@@ -35,3 +42,4 @@ const SignUp = () => {
 };
 
 export default SignUp;
+
