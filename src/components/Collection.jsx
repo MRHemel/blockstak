@@ -4,6 +4,7 @@ import midPhoto2 from '../assets/collection/midPhoto2.png'
 import midPhoto3 from '../assets/collection/midPhoto3.png'
 import user from '../assets/collection/user.png'
 import icon from '../assets/collection/icon.svg'
+import greenIcon from '../assets/category/greenIcon.svg'
 import collection1 from '../assets/collection/collection1.png'
 import collection2 from '../assets/collection/collection2.png'
 import collection3 from '../assets/collection/collection3.png'
@@ -40,7 +41,7 @@ const Collection = () => {
                         <h3 className='text-lg font-bold'>The Futr Abstr</h3>
                         <div className='flex gap-2 items-center'>
                             <img src={user} alt="" className='w-9 h-9' />
-                            <button className="btn btn-outline btn-success btn-xs"><img src={icon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
+                            <button className="btn btn-outline btn-success btn-xs"><img src={greenIcon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
                             <span>1 of 8</span>
                         </div>
                         <button className="btn btn-outline btn-sm  border-[#3D00B7] text-[#3D00B7] hover:bg-[#3D00B7]  ">Place a bid</button>
@@ -52,7 +53,7 @@ const Collection = () => {
                         <h3 className='text-lg font-bold'>The Futr Abstr</h3>
                         <div className='flex gap-2 items-center'>
                             <img src={user} alt="" className='w-9 h-9' />
-                            <button className="btn btn-outline btn-success btn-xs"><img src={icon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
+                            <button className="btn btn-outline btn-success btn-xs"><img src={greenIcon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
                             <span>1 of 8</span>
                         </div>
                         <button className="btn btn-outline btn-sm  border-[#3D00B7] text-[#3D00B7] hover:bg-[#3D00B7]  ">Place a bid</button>
@@ -64,7 +65,7 @@ const Collection = () => {
                         <h3 className='text-lg font-bold'>The Futr Abstr</h3>
                         <div className='flex gap-2 items-center'>
                             <img src={user} alt="" className='w-9 h-9' />
-                            <button className="btn btn-outline btn-success btn-xs"><img src={icon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
+                            <button className="btn btn-outline btn-success btn-xs"><img src={greenIcon} alt="" className='w-2 h-3.5' />0.25 ETH</button>
                             <span>1 of 8</span>
                         </div>
                         <button className="btn btn-outline btn-sm  border-[#3D00B7] text-[#3D00B7] hover:bg-[#3D00B7]  ">Place a bid</button>

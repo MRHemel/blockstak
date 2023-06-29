@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "coverPhoto": "../src/assets/category/img1.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "ArtCrypto"
+    },
+    {
+        "id": 2,
+        "coverPhoto": "../src/assets/category/img2.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "This NFT"
+    },
+    {
+        "id": 3,
+        "coverPhoto": "../src/assets/category/img3.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "NameCrypto"
+    },
+    {
+        "id": 4,
+        "coverPhoto": "../src/assets/category/img4.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "KingCrypto"
+    },
+    {
+        "id": 5,
+        "coverPhoto": "../src/assets/category/img4.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "ArtCrypto"
+    },
+    {
+        "id": 6,
+        "coverPhoto": "../src/assets/category/img3.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "This NFT"
+    },
+    {
+        "id": 7,
+        "coverPhoto": "../src/assets/category/img1.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "NameCrypto"
+    },
+    {
+        "id": 8,
+        "coverPhoto": "../src/assets/category/img2.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "KingCrypto"
+    },
+    {
+        "id": 9,
+        "coverPhoto": "../src/assets/category/img1.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "ArtCrypto"
+    },
+    {
+        "id": 10,
+        "coverPhoto": "../src/assets/category/img4.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "This NFT"
+    },
+    {
+        "id": 11,
+        "coverPhoto": "../src/assets/category/img2.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "NameCrypto"
+    },
+    {
+        "id": 12,
+        "coverPhoto": "../src/assets/category/img3.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "KingCrypto"
+    },
+    {
+        "id": 13,
+        "coverPhoto": "../src/assets/category/img4.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "ArtCrypto"
+    },
+    {
+        "id": 14,
+        "coverPhoto": "../src/assets/category/img3.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "This NFT"
+    },
+    {
+        "id": 15,
+        "coverPhoto": "../src/assets/category/img2.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "NameCrypto"
+    },
+    {
+        "id": 16,
+        "coverPhoto": "../src/assets/category/img1.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "KingCrypto"
+    },
+    {
+        "id": 17,
+        "coverPhoto": "../src/assets/category/img2.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "ArtCrypto"
+    },
+    {
+        "id": 18,
+        "coverPhoto": "../src/assets/category/img4.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "This NFT"
+    },
+    {
+        "id": 19,
+        "coverPhoto": "../src/assets/category/img3.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "NameCrypto"
+    },
+    {
+        "id": 20,
+        "coverPhoto": "../src/assets/category/img1.png",
+        "user1": "../src/assets/category/user1.svg",
+        "user2": "../src/assets/category/user2.svg",
+        "user3": "../src/assets/category/user3.svg",
+        "user4": "../src/assets/category/user4.svg",
+        "title": "KingCrypto"
+    }
+]

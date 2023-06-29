@@ -24,7 +24,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end ">
-                <input type="text" placeholder="search.." className="input input-bordered input-primary w-full max-w-xs mr-5" />
+                <input type="text" placeholder="search.." className="input input-bordered input-primary md:w-1/2 sm:w-1/2 max-w-xs mr-5" />
 
                 <button className="lg:btn lg:bg-[#3D00B7] lg:text-white lg:mr-5 hidden ">Upload</button>
                 <button className="lg:btn btn-outline  lg:border-[#3D00B7] lg:text-[#3D00B7] lg:mr-5 hidden">Connect Wallet</button>

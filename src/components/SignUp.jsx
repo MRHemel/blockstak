@@ -6,7 +6,7 @@ import user2 from '../assets/signup/user2.png'
 
 const SignUp = () => {
     return (
-        <div className="hero min-h-screen bg-base-200">
+        <div className="hero min-h-screen bg-base-200 mb-40">
             <div className="hero-content flex-col lg:flex-row w-full">
 
                 <div className="w-1/2 flex p-2 gap-8">
